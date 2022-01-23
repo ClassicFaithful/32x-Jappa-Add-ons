@@ -1,0 +1,13 @@
+{
+    "credit": "Created by mullak99",
+	"parent": "block/cube",
+    "textures": {
+		"particle": "block/gilded_blackstone",
+		"up": "block/gilded_blackstone_top",
+		"down": "block/gilded_blackstone_top",
+		"north": "block/gilded_blackstone",
+		"south": "block/gilded_blackstone",
+		"west": "block/gilded_blackstone",
+		"east": "block/gilded_blackstone"
+    }
+}
