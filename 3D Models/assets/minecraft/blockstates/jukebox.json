@@ -1,6 +1,0 @@
-{
-    "parent": "blockstates/jukebox",
-    "variants": {
-        "has_record=true": { "model": "block/jukebox_playing"}
-    }
-}
