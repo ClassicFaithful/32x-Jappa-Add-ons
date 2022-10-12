@@ -1,0 +1,15 @@
+{
+    "item.minecraft.dolphin_spawn_egg": "Blåhaj Spawn Egg",
+    "entity.minecraft.dolphin": "Blåhaj",
+    "effect.minecraft.dolphins_grace": "Blåhaj's Grace",
+    "subtitles.entity.dolphin.ambient": "Blåhaj chirps",
+    "subtitles.entity.dolphin.ambient_water": "Blåhaj whistles",
+    "subtitles.entity.dolphin.attack": "Blåhaj attacks",
+    "subtitles.entity.dolphin.death": "Blåhaj dies",
+    "subtitles.entity.dolphin.eat": "Blåhaj eats",
+    "subtitles.entity.dolphin.hurt": "Blåhaj hurts",
+    "subtitles.entity.dolphin.jump": "Blåhaj jumps",
+    "subtitles.entity.dolphin.play": "Blåhaj plays",
+    "subtitles.entity.dolphin.splash": "Blåhaj splashes",
+    "subtitles.entity.dolphin.swim": "Blåhaj swims"
+}
